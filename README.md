@@ -1,7 +1,5 @@
 ### CommanderBALA
 
-<button onclick="Lang()">Nyelv
-</button>
 
 ## Aktivitás
 
@@ -25,17 +23,10 @@
 ## Mivel foglalkozok
 
 <ul>
-  <li id="a">Fivem</li>  
+  <li>Fivem</li>  
   <li>Discord Bot</li>  
   <li>Web</li>  
 </ul>
-
-<script>
-function Lang() {
- let a = document.getElementById("a")
- a.innerHtml = "Xd"
-}
-</script>
 
 <!--
 **CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
