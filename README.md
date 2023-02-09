@@ -19,6 +19,14 @@
   <li>Discord.js</li>  
 </ul>
 
+## Mivel foglalkozok
+
+<ul>
+  <li>Fivem</li>  
+  <li>Discord Bot</li>  
+  <li>Web</li>  
+</ul>
+
 <!--
 **CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
