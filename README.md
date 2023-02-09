@@ -1,9 +1,19 @@
+###CommanderBALA
+
+<hr>
+
+##Aktivitás
+
 <a style="text-decoration: none;" href="">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CommanderBALA&theme=monokai&show_icons=true&bg_color=0D1117&hide_border=true&locale=hu" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderBALA&theme=monokai&layout=compact&bg_color=0D1117&hide_border=true&locale=hu" />
 </a>
+
+<hr>
+
+##Nyelvek
 
 
 <!--
