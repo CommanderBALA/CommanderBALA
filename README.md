@@ -1,6 +1,6 @@
 # CommanderBALA
 
-Helló Balázs vagyok, hobby programozó, ha szeretnél segítséget kérni mármilyen lentebb felsorolt témában írj rám discordon: C𝙤𝙢𝙢𝙖𝙣𝙙𝙚𝙧𝘽𝘼𝙇𝘼#0950
+Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni mármilyen lentebb felsorolt témában írj rám discordon: C𝙤𝙢𝙢𝙖𝙣𝙙𝙚𝙧𝘽𝘼𝙇𝘼#0950
 
 
 ## Aktivitás
