@@ -1,8 +1,8 @@
-###CommanderBALA
+### CommanderBALA
 
 <hr>
 
-##Aktivitás
+## Aktivitás
 
 <a style="text-decoration: none;" href="">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CommanderBALA&theme=monokai&show_icons=true&bg_color=0D1117&hide_border=true&locale=hu" />
@@ -13,7 +13,7 @@
 
 <hr>
 
-##Nyelvek
+## Nyelvek
 
 
 <!--
