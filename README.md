@@ -1,7 +1,5 @@
 ### CommanderBALA
 
-<hr>
-
 ## Aktivitás
 
 <a style="text-decoration: none;" href="">
@@ -11,10 +9,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderBALA&theme=monokai&layout=compact&bg_color=0D1117&hide_border=true&locale=hu" />
 </a>
 
-<hr>
-
 ## Nyelvek
 
+<ul>
+  <li>Javascript</li>  
+  <li>HTML5</li>  
+  <li>CSS3</li>  
+  <li>Lua</li>  
+  <li>Discord.js</li>  
+</ul>
 
 <!--
 **CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
