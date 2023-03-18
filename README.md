@@ -11,6 +11,7 @@ Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni b
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderBALA&theme=monokai&bg_color=0D1117&hide_border=true&locale=hu&hide_langs_below=1" />
 </a>
+<!--layout=compact&-->
 
 ## Nyelvek
 
