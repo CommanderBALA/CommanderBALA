@@ -9,7 +9,7 @@ Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni b
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CommanderBALA&theme=monokai&show_icons=true&bg_color=0D1117&hide_border=true&locale=hu" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderBALA&theme=monokai&bg_color=0D1117&hide_border=true&locale=hu&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderBALA&theme=monokai&bg_color=0D1117&hide_border=true&locale=hu&hide_langs_below=0" />
 </a>
 <!--layout=compact&-->
 
