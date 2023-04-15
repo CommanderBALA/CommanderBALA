@@ -34,8 +34,8 @@ Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni b
 
 ## Meg szeretném tanulni
 
-[ ] Számítógépes alkalmazások
-[ ] PHP
+[] Számítógépes alkalmazások
+[x] PHP
 
 <!--
 **CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
