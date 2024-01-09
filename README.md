@@ -20,7 +20,7 @@ Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni b
   <li>HTML5</li>  
   <li>CSS3</li>  
   <li>Lua</li>  
-  <li>Discord.js</li>
+  <li>Discord.js (v12, v13, v14)</li>
   <li>Sql</li>
 </ul>
 
@@ -35,7 +35,7 @@ Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni b
 ## Meg szeretném tanulni
 
 - [ ] Számítógépes alkalmazások
-- [ ] PHP
+- [x] PHP
 
 <!--
 **CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
