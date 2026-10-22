@@ -1,42 +1,20 @@
-# CommanderBALA
-
-Helló, *Balázs* vagyok, hobby programozó, ha szeretnél segítséget kérni bármilyen lentebb felsorolt témában írj rám discordon: <b>commanderbala</b>
-
+# [CommanderBALA](https://commandev.hu/)
+Helló, *Balázs* vagyok, jelenleg programtervező informatikusnak tanulok az ELTE-n.<br>
+Weboldalam: [commandev.hu](https://commandev.hu/)
 
 ## Aktivitás
+<div>
+  <img align="top" src="https://github-stats-extended.vercel.app/api?username=CommanderBALA&theme=slateorange&hide_border=true&bg_color=00000000&show_icons=true" />
+  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=CommanderBALA&theme=slateorange&hide_border=true&bg_color=00000000&show_icons=true" />
+</div>
 
-<a style="text-decoration: none;" href="">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=CommanderBALA&theme=monokai&show_icons=true&bg_color=0D1117&hide_border=true&locale=hu" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderBALA&theme=monokai&bg_color=0D1117&hide_border=true&locale=hu&hide_langs_below=0" />
-</a>
-<!--layout=compact&-->
-
-## Nyelvek
-
+## Skillek
 <ul>
-  <li>Javascript</li>  
-  <li>HTML5</li>  
-  <li>CSS3</li>  
-  <li>Lua</li>  
+  <li>PHP, Javascript, Lua, C</li>  
+  <li>HTML5, CSS3</li>
   <li>Discord.js (v12, v13, v14)</li>
   <li>Sql</li>
 </ul>
-
-## Mivel foglalkozok
-
-<ul>
-  <li>Fivem</li>  
-  <li>Discord Bot</li>  
-  <li>Web</li>  
-</ul>
-
-## Meg szeretném tanulni
-
-- [ ] Számítógépes alkalmazások
-- [x] PHP
-
 <!--
 **CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
