@@ -9,23 +9,12 @@ Weboldalam: [commandev.hu](https://commandev.hu/)
 </div>
 
 ## Skillek
-<ul>
-  <li>PHP, Javascript, Lua, C</li>  
-  <li>HTML5, CSS3</li>
-  <li>Discord.js (v12, v13, v14)</li>
-  <li>Sql</li>
-</ul>
-<!--
-**CommanderBALA/CommanderBALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+- PHP, Javascript, Lua, C, C#
+- HTML5, CSS3
+- Discord.js (v12, v13, v14)
+- Sql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Régi projekteim
+- RangerRP (Fivem szerver)
+- NewChance RolePlay (Fivem szerver)
+- Kripton (Discord bot)
