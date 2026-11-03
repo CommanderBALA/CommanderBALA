@@ -4,7 +4,7 @@ Weboldalam: [commandev.hu](https://commandev.hu/)
 
 ## Aktivitás
 <div>
-  <img align="top" src="https://github-stats-extended.vercel.app/api?username=CommanderBALA&theme=slateorange&hide_border=true&bg_color=00000000&show_icons=true" />
+  <img align="top" src="https://github-stats-extended.vercel.app/api?username=CommanderBALA&include_all_commits=true&theme=slateorange&hide_border=true&bg_color=00000000&show_icons=true" />
   <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=CommanderBALA&theme=slateorange&hide_border=true&bg_color=00000000&show_icons=true" />
 </div>
 
