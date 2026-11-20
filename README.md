@@ -11,7 +11,7 @@ Weboldalam: [commandev.hu](https://commandev.hu/)
 ## Skillek
 - PHP, Javascript, Lua, C, C#
 - Haskell
-- HTML5, CSS3
+- HTML5, CSS3, SCSS
 - Discord.js (v12, v13, v14)
 - Sql
 
